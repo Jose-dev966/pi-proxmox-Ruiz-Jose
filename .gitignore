@@ -1,0 +1,25 @@
+# Credenciales y secretos
+.env
+*.key
+*.pem
+secrets/
+credentials/
+
+# Archivos locales de editores
+.vscode/
+.idea/
+*.swp
+
+# Imágenes ISO
+*.iso
+
+# Discos virtuales
+*.qcow2
+*.vmdk
+*.vdi
+*.raw
+
+# Copias de seguridad
+*.bak
+*.backup
+backups/

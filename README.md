@@ -2,7 +2,7 @@
 
 Alumno/a: jose_ruiz
 
-URL GitHub: PENDIENTE
+URL GitHub: https://github.com/Jose-dev966/pi-proxmox-Ruiz-Jose
 
 ## Objetivo
 

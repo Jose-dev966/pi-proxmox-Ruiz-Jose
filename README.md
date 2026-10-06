@@ -6,7 +6,7 @@ URL GitHub: https://github.com/Jose-dev966/pi-proxmox-Ruiz-Jose
 
 ## Objetivo
 
-PENDIENTE: explicar la necesidad que resolvera el laboratorio.
+servir como repositorio de trabajo del proyecto, donde almacenar, versionar y documentar de forma organizada todos los archivos y avances realizados durante el proyecto.
 
 ## Modalidad
 
@@ -30,7 +30,7 @@ PENDIENTE: fisica o virtualizada; justificar la eleccion.
 
 ## Estado
 
-- [ ] GitHub creado y primer commit publicado
+- [X] GitHub creado y primer commit publicado
 - [ ] URL entregada y acceso docente comprobado
 - [ ] Modalidad indicada
 - [ ] Inventario

@@ -140,9 +140,9 @@ fabricante o plataforma virtual. Relacionarlas con las tres respuestas.
 
 | Fuente y URL | Version/modelo y fecha de consulta | Afirmacion respaldada | Aplicacion al nodo |
 |---|---|---|---|
-|Proxmox VE: requisitos oficiales |Requisitos oficiales consultados el 13/10/2026; confirmar los de la versión exacta que se instale.|Arquitectura compatible, virtualización y necesidades de memoria y almacenamiento.|Permite contrastar los recursos del equipo con los requisitos de Proxmox.|
-|Intel: Pentium G4560 |Intel Pentium G4560; consultado el 13/10/2026.|2 núcleos, 4 hilos, 3,50 GHz, arquitectura Intel 64 y compatibilidad con VT-x.|Justifica la evaluación de la CPU y la virtualización por hardware.|
-|Toshiba: documentación de la serie DT01ACA|Serie DT01ACA; consultado el 13/10/2026.|Características de las unidades de la serie, incluida la variante de 500 GB.|Sirve para contrastar el modelo si se confirma que la unidad instalada es una DT01ACA050.|
+|Proxmox VE: requisitos oficiales https://www.proxmox.com/en/products/proxmox-virtual-environment/requirements|Requisitos oficiales consultados el 13/10/2026; confirmar los de la versión exacta que se instale.|Arquitectura compatible, virtualización y necesidades de memoria y almacenamiento.|Permite contrastar los recursos del equipo con los requisitos de Proxmox.|
+|Intel: Pentium G4560 https://www.intel.com/content/www/us/en/products/sku/97143/intel-pentium-processor-g4560-3m-cache-3-50-ghz/specifications.html|Intel Pentium G4560; consultado el 13/10/2026.|2 núcleos, 4 hilos, 3,50 GHz, arquitectura Intel 64 y compatibilidad con VT-x.|Justifica la evaluación de la CPU y la virtualización por hardware.|
+|Toshiba: documentación de la serie DT01ACA https://toshiba-semicon-storage.com/content/dam/toshiba-ss-v3/master/en/storage/product/internal-specialty/cHDD-DT01ACAxxx-Product-Overview.pdf|Serie DT01ACA; consultado el 13/10/2026.|Características de las unidades de la serie, incluida la variante de 500 GB.|Sirve para contrastar el modelo si se confirma que la unidad instalada es una DT01ACA050.|
 
 ## Dictamen de viabilidad
 

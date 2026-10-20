@@ -10,7 +10,7 @@ servir como repositorio de trabajo del proyecto, donde almacenar, versionar y do
 
 ## Modalidad
 
-PENDIENTE: fisica o virtualizada; justificar la eleccion.
+Virtualizada
 
 ## Indice de documentacion
 

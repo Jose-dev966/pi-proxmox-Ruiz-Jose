@@ -51,3 +51,33 @@ Durante esta primera fase no se han producido incidencias importantes.
 Siguiente paso:
 Completar la información pendiente, publicar el primer commit en GitHub y comenzar el inventario del hardware disponible para el proyecto.
 
+## Sesión 03 - 13/10/26
+
+Objetivo:Hacer el inventario de hardware
+
+Acciones realizadas:
+- Se ha realizado el inventario inicial del ordenador como la CPU, la RAM, el Almacenamiento, la Red y la plataforma
+- Se ha comprobado si es posible instalar proxmox en el equipo
+- Se ha comrpobado que limitaciones tendría el equipo
+- Se ha calculado el reparto de recursos de la Ram y el disco
+- Se ha comprobado que componentes eran mas críticos para el servidor
+
+Pruebas y resultados:
+Se ha comprobado que en principio si se podría usar proxmox en ese dispositivo pero teniendo en cuenta tambien los limitantes del equipo
+
+Decisiones:
+No se utilizara proxmox en ese dispositivo debido a la falta de material por lo que se usara una maquina virtual
+
+Incidencias:
+No han habido incidencias importantes en esta fase.
+
+## Sesión 04- 20/10/26
+
+Objetivo:Diseñar la red antes de instalar los servicios identificando el nodo Proxmox, el Servidor ASO y el cliente Linux
+
+Acciones realizadas:
+- Se ha establecido los adaptadores
+- La red se ha planteado antes de instalar los servicios para identificar las conexiones necesarias y reducir el acceso innecesario al laboratorio.
+
+Incidencias:
+Sin incidencias importantes

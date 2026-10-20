@@ -8,12 +8,19 @@ Diseñar la red antes de instalar los servicios identificando el nodo Proxmox, e
 
 
 |Elemento|Nombre|IP|Función|Recursos|
-|Nodo proxmox|pve-ruiz||Hipervisor|Maquina virtual en VirtualBox|
-|Adaptador 1|puente||Conexión a la red física y posible gestión|Tarjeta de red del anfitrión|
-|Adaptador 2|NAT||Salida a internet|Adaptador virtual de VirtualBox|
-|Bridge de Proxmox|vmbr0|Sin IP propia|Conectar las máquinas del laboratorio|Bridge interno de Proxmox|
-|Servidor ASO|srv-aso|192.168.50.10/24|Servicio principal||
-|Cliente Linux|cli-linux|192.168.50.20/24|Pruebas||
+|---|---|---|---|---|
+|Interfaz de red del host|eth0|10.112.7.80/26|Conecta el ordenador anfitrión a la red del centro.|Adaptador virtual de VirtualBox|
+|Gateway del host|gateway del host|10.112.7.65|Puerta de enlace para salir de la red local.|Servicio NAT de VirtualBox|
+|DNS del host|DNS del host|10.239.3.7, 10.239.3.8|Servidores DNS configurados para resolver nombres de dominio.|Servicio DNS de VirtualBox|
+|Interfaz de Docker|(docker0)|10.10.0.1/16|Red virtual utilizada por Docker. Actualmente aparece como DOWN.||
+|Interfaz local|(lo)|127.0.0.1/8|Comunicación interna del propio ordenador.|Interfaz de loopback del sistema; no necesita tarjeta de red física.|
+|Proxmox vmbr0 sobre adaptador 1 NAT||Pendiente|Salida de red del nodo Proxmox.|Tarjeta de red virtual 1 de VirtualBox y bridge de Proxmox.|
+|Gateway NAT de VirtualBox||10.0.2.2|Puerta de enlace NAT de VirtualBox, si se mantiene esa configuración.|Servicio NAT integrado en VirtualBox; no requiere una tarjeta de red adicional.|
+|DNS NAT de VirtualBox|DNS de virtualbox|10.0.2.3|DNS habitual de VirtualBox en modo NAT.||
+|Interfaz solo-anfitrión del host||Pendiente de comprobar|Permite la comunicación entre el ordenador anfitrión y el laboratorio.|Adaptador de red virtual de VirtualBox para comunicar el ordenador anfitrión con las máquinas virtuales.|
+|Proxmox vmbr1 sobre adaptador 2||Pendiente|Gestión del nodo y conexión con las máquinas invitadas, según el diseño.|Adaptador de red virtual 2 y bridge de proxmox|
+|Servidor ASO|(srv-aso)|192.168.56.20/24|Servidor Linux para las prácticas.|CPU, RAM, disco virtual y tarjeta de red virtual|
+|Cliente Linux|(cli-linux)|192.168.56.30/24|Cliente Linux para probar los servicios.|CPU, RAM, disco virtual y tarjeta de red virtual|
 
 Gateway y DNS:
 - Gateway de gestión: el que corresponda a la red física del centro. Debe consultarse antes de configurar Proxmox.

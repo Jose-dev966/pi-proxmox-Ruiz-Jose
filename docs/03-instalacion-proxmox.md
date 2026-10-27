@@ -36,34 +36,34 @@ df -h
 ## Evidencias
 
 ### Evidencia 1-virtualbox
-![Virtualbox](../capturas-o-salidas/03-01-vm-version.png)
-![red1](../capturas-o-salidas/03-01.2-red.png)
-![red2](../capturas-o-salidas/03-01.3-red.png)
-![pantalla](../capturas-o-salidas/03-01.4-pantalla.png)
-![almacenamiento](../capturas-o-salidas/03-01.5-almacenamiento.png)
-![procesador](../capturas-o-salidas/03-01.6-procesador.png)
+![Virtualbox] (capturas-o-salidas/03-01-vm-version.png)
+![red1] (capturas-o-salidas/03-01.2-red.png)
+![red2] (capturas-o-salidas/03-01.3-red.png)
+![pantalla] (capturas-o-salidas/03-01.4-pantalla.png)
+![almacenamiento] (capturas-o-salidas/03-01.5-almacenamiento.png)
+![procesador] (capturas-o-salidas/03-01.6-procesador.png)
 
 ### Evidencia 2-instalador
-![instalador](../capturas-o-salidas/03-02-instalador.png)
+![instalador] (capturas-o-salidas/03-02-instalador.png)
 
 ### Evidencia 3-configuracion
-![configuracion 1](../capturas-o-salidas/03-03-configuración.png)
-![configuracion2](../capturas-o-salidas/03-03.2-configuracion.png)
-![configuracion3](../capturas-o-salidas/03-03.3-configuracion.png)
-![configuracion4](../capturas-o-salidas/03-03.4-configuracion.png)
+![configuracion 1] (capturas-o-salidas/03-03-configuración.png)
+![configuracion2] (capturas-o-salidas/03-03.2-configuracion.png)
+![configuracion3] (capturas-o-salidas/03-03.3-configuracion.png)
+![configuracion4] (capturas-o-salidas/03-03.4-configuracion.png)
 
 ### Evidencia 4-primer arranque
-![primer arranque](../capturas-o-salidas/03-04-primer-arranque.png)
+![primer arranque] (capturas-o-salidas/03-04-primer-arranque.png)
 
 ### Evidencia 5-interfaz web
-![interfazweb1](../capturas-o-salidas/03-05-interfaz-web.png)
-![interfazweb2](../capturas-o-salidas/03-05.2-interfaz-web.png)
+![interfazweb1] (capturas-o-salidas/03-05-interfaz-web.png)
+![interfazweb2] (capturas-o-salidas/03-05.2-interfaz-web.png)
 
 ### Comandos
-![comandos1](../capturas-o-salidas/03-comandos.png)
-![comandos2](../capturas-o-salidas/03.2-comandos.png)
-![comandos3](../capturas-o-salidas/03.3-comandos.png)
-![comandos4](../capturas-o-salidas/03.4-comandos.png)
+![comandos1] (capturas-o-salidas/03-comandos.png)
+![comandos2] (capturas-o-salidas/03.2-comandos.png)
+![comandos3] (capturas-o-salidas/03.3-comandos.png)
+![comandos4] (capturas-o-salidas/03.4-comandos.png)
 
 ## Incidencias
 La unica incidencia ha sido que la pantalla se ponia en negro por no configurar bien la maquina virtual pero ya se ha solucionado

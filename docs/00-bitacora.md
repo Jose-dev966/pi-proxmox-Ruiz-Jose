@@ -71,7 +71,7 @@ No se utilizara proxmox en ese dispositivo debido a la falta de material por lo 
 Incidencias:
 No han habido incidencias importantes en esta fase.
 
-## Sesión 04- 20/10/26
+## Sesión 04 - 20/10/26
 
 Objetivo:Diseñar la red antes de instalar los servicios identificando el nodo Proxmox, el Servidor ASO y el cliente Linux
 
@@ -81,3 +81,21 @@ Acciones realizadas:
 
 Incidencias:
 Sin incidencias importantes
+
+
+## Sesión 05 - 27/10/26
+
+Objetivo: instalar proxmox en un entorno virtual(VirtualBox) siguiendo las notas y anotaciones de anteriores sesiones para instalarlo de la mejor manera
+
+Acciones realizadas:
+- Se ha configurado Proxmox con los ajustes ya establecidos de memoria, pantalla y demas parametros
+- Se ha montado en el disco virtual creado para la practica
+- Se ha terminado la instalación de Proxmox
+- Se ha instalado correctamente proxmox
+
+Pruebas y resultados:
+se ha instalado proxmox correctamente y funciona bien
+
+
+Incidencias:
+la unica incidencia ha sido que la pantalla se ponia en negro por no establecer bien los ajustes pero al solucionarlo se ha solucionado

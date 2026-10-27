@@ -150,7 +150,6 @@ Apto, apto con condiciones o no apto para la propuesta actual: PENDIENTE.
 
 El equipo dispone de un procesador de 64 bits compatible con Intel VT-x, 8 GB de RAM según las anotaciones y una unidad de almacenamiento con aproximadamente 465,8 GB visibles. En principio, estos recursos pueden servir para instalar Proxmox directamente en el equipo físico y ejecutar un servidor ASO y un cliente Linux ligeros.
 
-Sintetizar las tres respuestas y las condiciones pendientes de comprobar.
 
 ## Evidencias y revision docente
 

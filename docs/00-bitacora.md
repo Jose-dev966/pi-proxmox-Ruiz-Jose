@@ -99,3 +99,21 @@ se ha instalado proxmox correctamente y funciona bien
 
 Incidencias:
 la unica incidencia ha sido que la pantalla se ponia en negro por no establecer bien los ajustes pero al solucionarlo se ha solucionado
+
+## Sesión 06 - 10/11/26
+
+objetivo: arreglar la máquina virtual con los nuevos ajustes y seguir con el apartado  de la configuración base del nodo
+
+Acciones realizadas:
+- Se ha configurado la misma máquina virtual con los nuevos ajustes para su correcto funcionamiento
+- Se ha accedido a storage en la interfaz web de Proxmox para revisar los almacenamientos disponibles, anotando para que es cada uno, el contenido que admite y cuanto espacio queda.
+- Se ha contrastado desde la consola con pvsem status y df -h
+- Se ha relacionado las interfaces con el diseño propuesto
+- Se ha comprobado que usuarios pueden administrar el nodo
+- Se ha ajustado el reparto de recursos
+
+Pruebas y resultados:
+Se ha configurado de forma correcta la maquina virtual con los nuevos ajustes y se ha realizado la configuración basde del nodo
+
+Incidencias:
+No hay incidencias destacables, todo correcto

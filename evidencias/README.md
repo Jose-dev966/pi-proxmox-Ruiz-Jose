@@ -37,6 +37,15 @@
 ![comandos3](capturas-o-salidas/03.3-comandos.png)
 ![comandos4](capturas-o-salidas/03.4-comandos.png)
 
+4)
+
+### Evidencia 1-nodo
+![almacenamiento](capturas-o-salidas/04-01-almacenamiento.png)
+![usuarios](capturas-o-salidas/04-02-usuarios.png)
+![memoria](capturas-o-salidas/04-03-memoria-ram.png)
+![discos](capturas-o-salidas/04-04-discos.png)
+![configuracion-red](capturas-o-salidas/04-05-configuracion-red.png)
+
 # Proyecto de infraestructura con Proxmox
 
 ## Identificación

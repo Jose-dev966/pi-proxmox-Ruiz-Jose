@@ -35,6 +35,11 @@ df -h
 
 ## Evidencias
 
+### Evidencia 0-configuracion-virtualbox
+![configuracion](../evidencias/capturas-o-salidas/03-0.1-configuracion.png)
+![configuracion2](../evidecnias/capturas-o-salidas/03-0.2-configuracion.png)
+![configuracion3](../evidencias/capturas-o-salidas/03-0.3-configuracion.png)
+
 ### Evidencia 1-virtualbox
 ![Virtualbox](../evidencias/capturas-o-salidas/03-01-vm-version.png)
 ![red1](../evidencias/capturas-o-salidas/03-01.2-red.png)

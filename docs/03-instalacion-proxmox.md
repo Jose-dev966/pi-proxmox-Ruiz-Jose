@@ -132,7 +132,7 @@ No se han creado usuarios adicionales.
 ## 4. Comprobación de discos
 Se ha utilizado el comando `lsblk` para identificar
 los discos disponibles y su distribución en el sistema.
-![discos](../evidencias/captura-o-salidas/04-04-discos.png)
+![discos](../evidencias/capturas-o-salidas/04-04-discos.png)
 
 ## 5. Reparto de recursos
 Se ha revisado el hardware virtual asignado al nodo Proxmox mediante los comandos lscpu, free -h y lsblk.

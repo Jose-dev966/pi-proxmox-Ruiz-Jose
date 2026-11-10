@@ -31,11 +31,11 @@ Virtualizada
 ## Estado
 
 - [X] GitHub creado y primer commit publicado
-- [ ] URL entregada y acceso docente comprobado
-- [ ] Modalidad indicada
-- [ ] Inventario
-- [ ] Diagrama de red
-- [ ] Instalacion Proxmox
+- [X] URL entregada y acceso docente comprobado
+- [X] Modalidad indicada
+- [X] Inventario
+- [X] Diagrama de red
+- [X] Instalacion Proxmox
 - [ ] Plantilla Linux
 - [ ] VMs/LXC
 - [ ] Servicio ASO

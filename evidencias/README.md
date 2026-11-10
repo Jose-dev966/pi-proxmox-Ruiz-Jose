@@ -2,7 +2,7 @@
 
 3)
 
-### Evidecnia 0-configuracion-virtualbox
+### Evidencia 0-configuracion-virtualbox
 ![configuracion](capturas-o-salidas/03-0.1-configuracion.png)
 ![configuracion2](capturas-o-salidas/03-0.2-configuracion.png)
 ![configuracion3](capturas-o-salidas/03-0.3-configuracion.png)
